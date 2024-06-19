@@ -1,3 +1,8 @@
+#  Hecho por: 
+# Hector Alejandro Ortega Gacria
+# Registro: 21310248.
+# Grupo: 6E
+#-----------------------------------------------------------
 def insertion_sort(arr):
     # Recorrer desde el segundo elemento hasta el final del arreglo
     for i in range(1, len(arr)):
